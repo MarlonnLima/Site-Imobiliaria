@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+.secao1{
+    background-color:#afddfb;
+}
+.secao1 img{
+    width: 150px;
+}
+.secao1 p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.secao1 p a{
+    font-size:18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.secao2{
+    margin-top: 50px;
+    padding-top:0px;
+}
+span{
+    font-weight: bold;
+}
+.destaque-azul{
+    color: #1c81c1 !important;
+}
+.destaque-amarelo{
+    color: #fff81b;
+}
+.secao3 h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.secao3-h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+.secao3-img{
+    width: 450px;
+}
+.secao4{
+    background: #1d80c1;
+}
+.secao4-h2 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.secao4 p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+.secao4 ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+}
+.secao4 li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+.secao6 {
+    background-color:#1d80c1;
+}
+iframe{
+    width: 800px;
+    height: 350px;
+}
+.secao6 p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding:15px;
+    margin-top: 30px;
+}
+.secao6 ul{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    width: 210px;
+}
+.secao6 ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.secao6 ul li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
